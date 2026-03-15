@@ -4,12 +4,10 @@ Create smooth and beautiful landing page animation using only basic CSS animatio
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
-## Example
-![](animation.gif)
-### LIVE DEMO: https://kvaibhav01.github.io/Landing-Page-Animation/
+## Preview
+[Live Demo](https://mohammadzali2005.github.io/Landing-Page-Animation/)
 
 ## How-to?
-
 If you know basic CSS along with its animations you can quickly add this type of _landing page_ animation in your [SVG](https://www.w3schools.com/html/html5_svg.asp) files as shown in the demo. I recommend you to take the [W3School's tutorial](https://www.w3schools.com/css/css3_animations.asp) on the same. 
 
 In your CSS file, you need to have the following:
@@ -19,5 +17,3 @@ In your CSS file, you need to have the following:
 - **`@keyframes chatblips`**: for the `chatblips` keyframe, I've used the `bounce-in` [animation sample](http://angrytools.com/css/animation/) taken from [Angry Tools](http://angrytools.com) website. This uses the CSS [`scale()`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale) function to resize the element on 2D plane.
 
 #### That's it! Simple, clean and smooth! 
-
-Read [this article](https://codeburst.io/create-a-beautiful-landing-page-animation-with-css-8f4501c20c8e) I wrote to incorporate it in your project.
